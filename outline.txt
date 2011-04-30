@@ -1,0 +1,74 @@
+Designing for Mobile
+
+Visuals
+Paper prototype
+Libraries
+
+Platform differences
+Liveview
+Framework
+Vector
+Multi resolution 
+
+Title Mobile Myth - words
+Emulator - testing
+
+
+Design Process - step by step (breadcrumb)
+
+Establish a Starting Point
+	Find out who you are
+	Show where I'm coming from
+
+Find something you love
+	On your person
+	Not your phone
+
+Who are you?
+	Developers
+	Designers
+	Managers
+
+Where do you work?
+	Freelance
+	In house
+	Agency
+	Product
+
+Designing for Mobile
+	Mobile Myth
+	Walking the Line
+	Be Your User
+	TEST TEST TEST
+
+Mobile Myth
+	Deploy Everywhere
+		Multi-Platform Development
+			Libraries (BFF)
+		Multi-Platform Design
+			Visual Style Guide (not really css)
+
+Mobile Myth
+	Screen Size
+	Screen Resolutions
+	Hardware Considerations
+
+Walking the Line
+	Car industry
+		Minor design deviation
+		Use OS Specific Interactions
+
+Be Your User
+	Spend time with platform
+	Talk with the user
+	Spot annoyances
+
+TEST TEST TEST
+	Sizes
+	
+Conclusion
+	You are good
+	You want to make good stuff
+	Efficient workflows != Shortcuts
+	
+Fin.

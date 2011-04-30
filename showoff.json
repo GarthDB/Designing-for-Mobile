@@ -1,0 +1,14 @@
+{ "name": 
+	"Designing for Mobile", 
+	"sections": 
+	[ 
+		{"section":"title"},
+		{"section":"starting_point"},
+		{"section":"designing_for_mobile"},
+		{"section":"mobile_myth"},
+		{"section":"walking_the_line"},
+		{"section":"be_the_user"},
+		{"section":"test"},
+		{"section":"conclusion"}
+	]
+}
