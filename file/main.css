@@ -1,0 +1,10 @@
+body {
+	color: #333;
+	text-shadow: 0px 2px 3px #FFF;
+}
+.slide {
+	background: url(xd_logo.png) #DDD no-repeat bottom right;
+}
+li li {
+	font-size: 28px;
+}
